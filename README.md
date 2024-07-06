@@ -1,9 +1,8 @@
 # 🏂 Zadan Fairuz 
 
-**`(Code Wanderer (All Fields))`**
+**`Code Wanderer (All Fields)`**
 
-<h1 align="center">Hi 👋, I'm Zadan Fairuz</h1>
-<h3 align="center">As a curious individual and informatics student with a solid foundation in data analysis and machine learning, I derive immense satisfaction from analytics. My passion lies in observing and meticulously analyzing various phenomena, constantly seeking innovative solutions to complex problems. I am confident in my ability to make impactful contributions across diverse facets of the data field, further enhancing my vision and expertise.</h3>
+I'm a curious individual and informatics student with a solid foundation in data analysis and machine learning, I derive immense satisfaction from analytics. My passion lies in observing and meticulously analyzing various phenomena, constantly seeking innovative solutions to complex problems. All coding projects across diverse facets of the data field are built from ground up, and some are my journey of learning from scratch.
 
 - 🎲 I’m currently learning **ML/DL & Data related fields**
 
@@ -18,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zadanfai&show_icons=true&locale=en" alt="zadanfai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zadanfai&" alt="zadanfai" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zadanfai&theme=whatsapp-dark2&card_width=496" alt="GitHub Streak" /></a>
 
