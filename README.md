@@ -18,14 +18,15 @@ I'm a curious individual and informatics student with a solid foundation in data
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=zadanfai&theme=radical&hide_border=false"></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zadanfai&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zadanfai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zadan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zadanfai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
