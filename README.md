@@ -27,9 +27,9 @@ I'm a curious individual and informatics student with a solid foundation in data
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zadan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zadanfai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zadan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zadanfai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&area=true" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zadanfai&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zadanfai&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zadanfai&icon=0&color=12)](https://visitcount.itsvg.in)
