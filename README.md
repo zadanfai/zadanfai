@@ -23,7 +23,7 @@ I'm a curious individual and informatics student with a solid foundation in data
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zadanfai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zadanfai&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
