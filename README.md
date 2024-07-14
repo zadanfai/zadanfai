@@ -2,7 +2,7 @@
 
 **`Code Wanderer (ML/DL & Data related fields)`**
 
-I'm a curious individual and informatics student with a solid foundation in data analysis and machine learning, I derive immense satisfaction from analytics. My passion lies in observing and meticulously analyzing various phenomena, constantly seeking innovative solutions to complex problems. All coding projects across diverse facets of the data field are built from ground up, and some are my journey of learning from scratch.
+Curious individual and informatics student with a solid foundation in data analysis and machine learning, derive immense satisfaction from analytics. My passion lies in observing and meticulously analyzing various phenomena, constantly seeking innovative solutions to complex problems. All projects across diverse facets of the data field are built from ground up, and some are my journey of learning from scratch.
 
 - 🎲 I’m currently learning **Linear Algebra : Mathemathics for Machine Learning**
 
