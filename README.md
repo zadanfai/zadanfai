@@ -36,10 +36,13 @@ I’m an informatics student with a solid foundation in data analysis and machin
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zadanfai&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true) -->
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+> [!NOTE] 
+> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zadanfai&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zadanfai&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zadanfai/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zadanfai/)
