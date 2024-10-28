@@ -40,5 +40,9 @@ I'm a curious individual and informatics student with a solid foundation in data
 ---
 [![](https://visitcount.itsvg.in/api?id=zadanfai&icon=0&color=12)](https://visitcount.itsvg.in)
 
+<<<<<<< HEAD
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+=======
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+>>>>>>> 8581f2a (editing readme.md)
