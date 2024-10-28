@@ -19,9 +19,13 @@ I’m an informatics student with a solid foundation in data analysis and machin
 
 ## 📊 GitHub Stats:
 
-<h3>💻 GitHub Profile Stats</h3>
+<div align="center">
+<img src="banner2.gif" align="center" style="width: 100%" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- <h3>💻 GitHub Profile Stats</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <h3>🔥 Streak Stats</h3>
 
@@ -29,8 +33,8 @@ I’m an informatics student with a solid foundation in data analysis and machin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zadanfai&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zadanfai&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true) -->
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
