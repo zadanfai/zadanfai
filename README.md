@@ -1,7 +1,7 @@
 # 🏂 Zadan Fairuz
 
 <div align="center">
-<img src="https://zadanfai.github.io/zadanfai/banner.jpg" align="center" style="width: 100%" />
+<img src="banner.jpg" align="center" style="width: 100%" />
 </div>
 
 **`Code Wanderer (ML/DL & Data related fields)`**
@@ -39,10 +39,3 @@ I'm a curious individual and informatics student with a solid foundation in data
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zadanfai&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<<<<<<< HEAD
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-=======
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
->>>>>>> 8581f2a (editing readme.md)
