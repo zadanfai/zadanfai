@@ -1,10 +1,10 @@
 # 🏂 Zadan Fairuz
+**`Code Wanderer (ML/DL & Data related fields)`**
 
 <div align="center">
-<img src="banner.jpg" align="center" style="width: 100%" />
+<img src="banner.gif" align="center" style="width: 100%" />
 </div>
 
-**`Code Wanderer (ML/DL & Data related fields)`**
 
 I'm a curious individual and informatics student with a solid foundation in data analysis and machine learning, I derive immense satisfaction from analytics. My passion lies in observing and meticulously analyzing various phenomena, constantly seeking innovative solutions to complex problems. All coding projects across diverse facets of the data field are built from ground up, and some are my journey of learning from scratch.
 
