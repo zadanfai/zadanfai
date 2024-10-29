@@ -29,7 +29,7 @@ I’m an informatics student with a solid foundation in data analysis and machin
 <h3>🔥 Streak Stats</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zadanfai&theme=radical&hide_border=false)
-<img align='left' width="37%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
+<img align='left' width="38%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=zadanfai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
 
 
 <!-- ### 🔝 Top Contributed Repo
